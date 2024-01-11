@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Naomi+Le" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+KHÔI VÕ" alt="Typing SVG" /></a>
 </h1>
 <h1 align="center">Hi 👋, I'm Khôi</h1>
 <h3 align="center">I am a Game Developer</h3>
